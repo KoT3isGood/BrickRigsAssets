@@ -1,7 +1,0 @@
-Diffuse=T_LandscapeLayersMask
-Normal=T_Wall_normal
-Other[0]=T_ModernDoor_mask
-Other[1]=T_GarageDoor_normal
-Other[2]=T_Ground_normal
-Other[3]=T_ModernDoor_normal
-Other[4]=Plastic_SmoothWorn_512_roughness

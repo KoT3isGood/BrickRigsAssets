@@ -1,7 +1,0 @@
-Diffuse=T_LandscapeLayersMask
-Normal=T_Wall_normal
-Other[0]=T_SimpleWindow_mask
-Other[1]=T_DoubleDoor_mask
-Other[2]=T_DoubleDoor_normal
-Other[3]=T_SimpleWindow_normal
-Other[4]=Plastic_SmoothWorn_512_roughness
