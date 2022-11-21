@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/BrickRigs/Buildings/Castle/Materials/M_Castle.M_Castle'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/BrickRigs/Buildings/Castle/Materials/M_Castle.M_Castle'
+        MaterialSlotName = Castle
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 312.107, 1281.71, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-1500, Y=-510, Z=1500.57 }
+    BoxExtent = { X=4230.15, Y=4530, Z=1800.57 }
+    SphereRadius = 6112.75
+}

@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/Game/BrickRigs/Buildings/Editors/Materials/M_Editor.M_Editor'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/Game/BrickRigs/Buildings/Editors/Materials/M_Editor.M_Editor'
+        MaterialSlotName = M_Editor
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 301.573, 2421.83, 2471.4, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=-135, Z=205 }
+    BoxExtent = { X=570, Y=435, Z=295 }
+    SphereRadius = 775.339
+}
