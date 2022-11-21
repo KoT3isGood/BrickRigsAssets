@@ -1,0 +1,54 @@
+Skeleton = Skeleton'/Game/BrickRigs/Character/Meshes/SK_Character_Skeleton.SK_Character_Skeleton'
+bHasVertexColors = false
+LODInfo[3] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+    LODInfo[1] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0
+        LODMaterialMap[1] = { 0 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "../../../../Assets/Character/SM_Character_LOD1.fbx"
+    }
+    LODInfo[2] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0
+        LODMaterialMap[1] = { -2 }
+        bEnableShadowCasting[0] = {}
+        BonesToRemove[4] =
+        {
+            BonesToRemove[0] = { BoneName=Claw_back_R }
+            BonesToRemove[1] = { BoneName=Claw_front_R }
+            BonesToRemove[2] = { BoneName=Claw_back_L }
+            BonesToRemove[3] = { BoneName=Claw_front_L }
+        }
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = "../../../../Assets/Character/SM_Character_LOD2.fbx"
+    }
+}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData =
+    {
+        WholeMeshBuiltData[3] = { , ,  }
+        RegionBuiltData[0] = {}
+    }
+}
+SkinWeightProfiles[0] = {}
+NumVertexColorChannels = 0

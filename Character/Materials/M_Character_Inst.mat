@@ -1,0 +1,5 @@
+Diffuse=T_Character_Faces
+Normal=T_Character_normal
+Other[0]=T_Character_mask
+Other[1]=T_Character_mask_02
+Other[2]=T_Transparent
